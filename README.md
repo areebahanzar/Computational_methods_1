@@ -1,1 +1,1 @@
-# computational_methods_1
+# gettingFamiliarWithJupyter
